@@ -5,7 +5,7 @@
   <a href="#license"><img src="https://gh.kaos.st/apache2.svg"></a>
 </p>
 
-<p align="center"><a href="#build-node-requirements">Build Node Requirements</a> • <a href="#usage">Usage</a> • <a href="#ci-status">CI Status</a> • <a href="#license">License</a></p>
+<p align="center"><a href="#build-node-requirements">Build Node Requirements</a> • <a href="#important-points">Important Points</a> • <a href="#usage">Usage</a> • <a href="#ci-status">CI Status</a> • <a href="#license">License</a></p>
 
 This is script for building many Ruby versions at once using [RBBuild](https://kaos.sh/rbbuild) utility. This script is used for building Ruby for the [RBInstall](https://kaos.sh/rbinstall) [repository](https://rbinstall.kaos.st).
 
@@ -23,16 +23,14 @@ Recomended:
 * 16 GB of RAM
 * 60 GB SSD
 
-### Usage
-
-Important Points:
+### Important Points
 
 * _This script requires superuser (root) privileges_
 * _Use freshly created virtual machines for the build_
 * _Do not use the same virtual machine more than once_
 * _Do not use publicly accessible virtual machines (with public IP)_
 
-----
+### Usage
 
 1. Download builder script script:
 ```bash
