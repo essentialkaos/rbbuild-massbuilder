@@ -60,7 +60,7 @@ exec $SHELL
 | Branch | Status |
 |--------|--------|
 | `master` | [![CI](https://kaos.sh/w/rbbuild-massbuilder/ci.svg?branch=master)](https://kaos.sh/w/rbbuild-massbuilder/ci?query=branch:master) |
-| `develop` | [![CI](https://kaos.sh/w/rbbuild-massbuilder/ci.svg?branch=master)](https://kaos.sh/w/rbbuild-massbuilder/ci?query=branch:develop) |
+| `develop` | [![CI](https://kaos.sh/w/rbbuild-massbuilder/ci.svg?branch=develop)](https://kaos.sh/w/rbbuild-massbuilder/ci?query=branch:develop) |
 
 ### License
 
