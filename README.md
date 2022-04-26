@@ -32,6 +32,8 @@ Important Points:
 * _Do not use the same virtual machine more than once_
 * _Do not use publicly accessible virtual machines (with public IP)_
 
+----
+
 1. Download builder script script:
 ```bash
 curl -o builder.sh https://kaos.sh/rbbuild-massbuilder/builder.sh
